@@ -2,9 +2,9 @@
 
 # Hi, I'm Pradeepa 👋
 
-### Frontend Developer | React.js & Next.js | Building ERP & Full-Stack Web Applications
+### Frontend Developer | React.js & Next.js
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+Developer+%40+Code+AI;React.js+%2B+Next.js+%2B+.NET;Building+ERP+%26+CRUD+Applications;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Currently+working+at+Code+AI;React.js+%2B+Next.js+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br/>
 
